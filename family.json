@@ -1,0 +1,23 @@
+{
+    "family": [
+        {
+            "name": "John",
+            "age": 20
+        },
+    
+        {
+            "name": "Doe",
+            "age": 25
+        },
+    
+        {
+            "name": "Brad",
+            "age": 45
+        },
+
+        {
+            "name": "Jeff",
+            "age":34
+        }
+    ]
+}
